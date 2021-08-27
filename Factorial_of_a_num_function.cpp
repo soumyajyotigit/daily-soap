@@ -1,5 +1,5 @@
 //factorial of a num using function 
-//func is like tahtwith args &with return values
+//func is like taht "with args & with return values"
 
 #include <iostream>
 #include <math.h>
