@@ -1,4 +1,5 @@
 //user gives array elements and find out 2 elements those are max and min 
+#include <iostream>
 #include <climits>
 using namespace std;
 
