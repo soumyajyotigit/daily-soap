@@ -19,6 +19,11 @@ int main() {
     if (arr[i]<minno){  //minno=min(minno,arr[i];   without using the if loop
       minno=arr[i];
     }
+    //instade of line 15 to 21
+    for(int i=0;i<n;i++){
+    maxno=max(maxno,arr[i]);
+    minno=min(minno,arr[i]);
+  }//instade of line 15 to 21
     
   }
   cout<<maxno<<endl<<minno<<endl;
